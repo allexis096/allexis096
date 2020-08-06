@@ -1,6 +1,6 @@
  ---
  <h2> Hi, I'm Allexis Figueiredo! <img src="https://media.giphy.com/media/XGhTPVMgzLv7s2TOE6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150">
 <p><em>Studying to be a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 </em></p>
 
