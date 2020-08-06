@@ -15,7 +15,7 @@
 const allex = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, React Native, Node.js, Styled-Components, Docker],
+  tools: [React, React Native, Node, Styled-Components, Docker],
   objective: "I am studying ReactJS, React Native and Node.js to be a good developer using current technologies"
 }
 ```
