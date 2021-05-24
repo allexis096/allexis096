@@ -22,7 +22,7 @@ const allex = {
       'Styled-Components': true,
       Tailwind: true,
       Next: true,
-      TypesSript: true,
+      TypeScript: true,
     },
     Node: {
       Adonis: true,
