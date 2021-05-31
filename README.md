@@ -1,4 +1,5 @@
  ---
+ 
  <h2> Hi, I'm Allexis! <img src="https://media.giphy.com/media/XGhTPVMgzLv7s2TOE6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150">
 <p><em>I'm a developer in constant learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
@@ -9,7 +10,7 @@
 [![GitHub Allexis](https://img.shields.io/github/followers/allexis096?label=follow&style=social)](https://github.com/allexis096)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const allex = {
@@ -37,11 +38,12 @@ const allex = {
   objective: 'Give my best in my profession using current technologies',
 };
 ```
+
+![Snake animation](https://github.com/allexis096/allexis096/blob/output/github-contribution-grid-snake.svg)
+
 <div>
   <a href="https://github.com/allexis096">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allexis096&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allexis096&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </div>
 
 ---
