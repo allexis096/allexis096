@@ -14,7 +14,7 @@
 
 ```javascript
 const allex = {
-  code: [Javascript, HTML, CSS, Dart: { Flutter: { isLoading: true }}],
+  code: [Javascript, HTML, CSS, Dart: { Swift: { isLoading: true }}],
   tools: [
     React: {
      'Ant-Design': true,
