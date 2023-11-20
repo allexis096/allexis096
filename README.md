@@ -1,6 +1,6 @@
  ---
  
- <h2> Hi, I'm Allexis! <img src="https://media.giphy.com/media/XGhTPVMgzLv7s2TOE6/giphy.gif" width="50"></h2>
+ <h2> Hi, I'm Allexis!</h2>
 <img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150">
 <p><em>I'm a developer in constant learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 </em></p>
@@ -14,7 +14,7 @@
 
 ```javascript
 const allex = {
-  code: [Javascript, HTML, CSS, Swift: { isLoading: true }],
+  code: [JavaScript, HTML, CSS, Swift],
   tools: [
     React: {
      'Ant-Design': true,
@@ -29,7 +29,8 @@ const allex = {
       Adonis: true,
       Express: true,
       GraphQL: true,
-      Typescript: true,
+      TypeScript: true,
+      NestJS: true,
     },
     'React Native',
     Docker,
