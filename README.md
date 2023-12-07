@@ -2,7 +2,7 @@
  
  <h2> Hi, I'm Allexis!</h2>
 <img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150">
-<p><em>I'm a developer in constant learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
+<p><em>I'm a developer in constant learning</br>
 </em></p>
 
 [![Twitter: allex9971](https://img.shields.io/twitter/follow/allex9971?style=social)](https://twitter.com/allex9971)
@@ -10,7 +10,7 @@
 [![GitHub Allexis](https://img.shields.io/github/followers/allexis096?label=follow&style=social)](https://github.com/allexis096)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### About me:
 
 ```javascript
 const allex = {
