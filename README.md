@@ -40,8 +40,6 @@ const allex = {
 };
 ```
 
-![Snake animation](https://github.com/allexis096/allexis096/blob/output/github-contribution-grid-snake.svg)
-
 <div>
   <a href="https://github.com/allexis096">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allexis096&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
