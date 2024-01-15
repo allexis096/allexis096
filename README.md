@@ -1,8 +1,6 @@
  ---
  
  <h2> Hi, I'm Allexis!</h2>
-<img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150">
-<p><em>I'm a developer in constant learning</br>
 </em></p>
 
 [![Twitter: allex9971](https://img.shields.io/twitter/follow/allex9971?style=social)](https://twitter.com/allex9971)
@@ -39,10 +37,4 @@ const allex = {
   objective: 'Give my best in my profession using current technologies',
 };
 ```
-
-<div>
-  <a href="https://github.com/allexis096">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allexis096&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</div>
-
 ---
